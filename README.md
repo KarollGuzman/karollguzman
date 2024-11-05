@@ -2,6 +2,9 @@
 ## Hi there 👋
 aquí tengo uno
 
+si quiero editar imagenes con ancho y alto, pues mejor con <img>
+
+y si quiero hacer mas grande los íconos, los meto en #
 aquí otro
 y aquí **karoll**
 *karoll*
